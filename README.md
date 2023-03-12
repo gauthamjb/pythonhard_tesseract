@@ -1,1 +1,1 @@
-# pythonhard_tesseract
+# python_tesseract
